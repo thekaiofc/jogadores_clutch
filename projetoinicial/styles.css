@@ -19,8 +19,10 @@ body {
   }
   
   h1 {
-    margin: -2;
+    margin: o;
+    padding: 20px;
   }
+
   h2{
     margin-left: 45px;
     color: #000000;
@@ -66,8 +68,13 @@ p {
 footer {
   background-color:#2E3333;
   color: #fff;
-  padding: 10px;
+  padding: 30px;
   text-align: center;
+}
+.menu {
+  font-family: impact;
+  color: #000000;
+  font-size: 30px;
 }
 
   
